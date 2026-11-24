@@ -7,7 +7,7 @@
       "site": "Nintendo eShop Italia",
       "url": "https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/SWORD-ART-ONLINE-Hollow-Realization-Deluxe-Edition-1565442.html",
       "price_selector": ".plm-price__main",
-      "threshold": 50.0,
+      "threshold": 10.0,
       "currency": "EUR",
       "enabled": true,
       "note": "Pagina prodotto diretta Nintendo. Selettore prezzo ancora da configurare."
