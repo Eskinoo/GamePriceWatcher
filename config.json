@@ -1,0 +1,15 @@
+{
+  "check_interval_note": "Il workflow GitHub Actions esegue controlli pianificati ogni 15 minuti circa.",
+  "games": [
+    {
+      "name": "SWORD ART ONLINE: Hollow Realization Deluxe Edition",
+      "site": "Nintendo eShop Italia",
+      "url": "https://www.nintendo.com/it-it/Cerca/Cerca-299117.html?f=147394-5-82",
+      "price_selector": "",
+      "threshold": 10.0,
+      "currency": "EUR",
+      "enabled": false,
+      "note": "Inserire la pagina prodotto diretta e il selettore CSS del prezzo. La pagina di ricerca potrebbe non esporre il prezzo."
+    }
+  ]
+}
